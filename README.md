@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # Welcome to Math-Util Repository
 ### You will find in this repo the following stuff:
