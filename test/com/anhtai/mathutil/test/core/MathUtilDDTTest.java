@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.khaphp.mathutil.test.core;
+package com.anhtai.mathutil.test.core;
 
-import com.khaphp.mathutil.core.MathUtil;
+import com.anhtai.mathutil.core.MathUtil;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.runner.RunWith;

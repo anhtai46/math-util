@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.khaphp.mathutil.main;
+package com.anhtai.mathutil.main;
 
-import com.khaphp.mathutil.core.MathUtil;
+import com.anhtai.mathutil.core.MathUtil;
 
 /**
  *
