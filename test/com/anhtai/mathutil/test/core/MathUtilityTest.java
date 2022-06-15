@@ -6,6 +6,7 @@
 package com.anhtai.mathutil.test.core;
 
 import com.anhtai.mathutil.core.MathUtil;
+import com.sun.source.tree.AssertTree;
 import junit.framework.Assert;
 import org.junit.Test;
 import static org.junit.Assert.*;
@@ -88,7 +89,6 @@ public class MathUtilityTest {
     public void testGetFacctorialGivenWrongArgumentThrowsException(){
         MathUtil.getFactorial(-5);  //hàm @Test chạy hay hàm getF() chạy sẽ phai ném ngoại lệ numberformat expection
     }
-    
     //CÁCH KHÁC ĐỂ BẮT NGOẠI LỆ XUẤT HỆN, viết tự nhiên hơn
     //xài lambda
     //hàm sẽ ném về ngoại lệ nếu nhận vào 21

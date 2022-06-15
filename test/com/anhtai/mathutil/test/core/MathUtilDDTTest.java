@@ -11,10 +11,6 @@ import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
-/**
- *
- * @author LENOVO
- */
 
 //cậu lệnh này chỉ chơi vs JUnit báo hiệu rằng sẽ cần loop qua tập data để lấy các tập data input expected nhồi vào hàm test
 @RunWith(value = Parameterized.class)
